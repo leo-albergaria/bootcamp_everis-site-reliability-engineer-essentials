@@ -1,6 +1,6 @@
 <p><img src="https://user-images.githubusercontent.com/63436406/127785582-c6dd0121-7d4a-4f8d-83f3-e7c9b3591bce.png" align="left" height="150px" width="150px">
     <h1># everis Site Reliability Engineer Essentials</h1> 
-    Conquiste as melhores oportunidades na everis como software tester em aplicações SRE. Nessa jornada, através do bootcamp everis Site Reliability Engineer Essentials, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.
+    <p align="justify">Conquiste as melhores oportunidades na everis como software tester em aplicações SRE. Nessa jornada, através do bootcamp everis Site Reliability Engineer Essentials, você irá aprender sobre as principais ferramentas de testes mais utilizadas no mercado e se conectar com grandes experts da área.</p>
 </p>      
 
 ---
